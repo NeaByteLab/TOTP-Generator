@@ -1,0 +1,24 @@
+{
+  "name": "totp-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeaByteLab/TOTP-Generator.git"
+  },
+  "author": "NeaByteLab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeaByteLab/TOTP-Generator/issues"
+  },
+  "homepage": "https://github.com/NeaByteLab/TOTP-Generator#readme",
+  "description": "",
+  "dependencies": {
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0",
+    "readline-sync": "^1.4.10"
+  }
+}
